@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://elective.collegeboard.org/media/2022-02/cs-pioneers-clarence-skip-ellis-para2.jpg);
+    background-position: top; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  top:0 ;
+  left: 0;
+}
+
+table,th,td{
+    border: 1px solid black;
+    background: color( rgba(255, 255, 255, 0.911));
+}
+
+img{
+    height: 400px;
+    justify-content: space-between;
+    justify-content: flex-end;
+}
