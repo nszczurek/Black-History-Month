@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://elective.collegeboard.org/media/2022-02/cs-pioneers-clarence-skip-ellis-para2.jpg);
+    background-image: url(https://cs.illinois.edu/_sitemanager/viewphoto.aspx?id=10741&s=150);
     background-position: top; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
@@ -14,6 +14,9 @@ table,th,td{
 
 img{
     height: 400px;
-    justify-content: space-between;
-    justify-content: flex-end;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
 }
